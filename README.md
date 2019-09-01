@@ -1,4 +1,4 @@
-# APiI-PasswordManager
+# APiI Password Manager
 This is a tiny bash script that can hash your password and save it locally. It can also verify the password.  
 
 ### Why make this?
